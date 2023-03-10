@@ -10,4 +10,6 @@ The "Portofolio" page has some of my work, most of it being projects I made with
 
 Finally, the "Contact" page features a Contact Form that redirects the user to the Mail app, providing my email as the recipient. This page is made rudimentary, because it has several fields that can be filled in, but the information written in them is not saved.
 
+In addition, I have added links to my social media on the bottom of each page, as well as a copyright symbol.
+
 In order to view the website, it is necessary to unzip "personal website.zip". Since it contains many images and files, zipping the entire project was more efficient.
